@@ -2,9 +2,9 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
-### Install
 
-Technologies used in this project:
+
+###Technologies used in this project:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
